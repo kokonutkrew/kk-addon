@@ -1,0 +1,15 @@
+## Interface: 110000
+## Title: [KK]
+## Notes: Core applicaiton funtionality.
+## Version: 0.1
+
+# Initialize
+EnvironmentVariables.lua
+
+# Application
+Main.lua
+CheckDurability.lua
+
+# Notes
+#  /etrace; This command will list various game triggers
+#  /fstack; Debug information
