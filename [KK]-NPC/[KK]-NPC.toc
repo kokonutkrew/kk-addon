@@ -1,0 +1,11 @@
+## Interface: 110000
+## LoadOnDemand: 1
+## RequiredDeps: [KK]
+
+## Title: [KK]-NPC
+## Notes: Simple chat bot commands and auto-responses.
+## Version: 0.1
+## SavedVariables: kk-npc
+## IconTexture: Interface\AddOns\[KK]\img\kkIconTexture
+
+Main.lua

@@ -1,14 +1,13 @@
 ## Interface: 110000
 ## Title: [KK]
-## Notes: Core applicaiton funtionality.
+## Notes: Core application funtionality for [KK] modules.
 ## Version: 0.1
 
-# Initialize
-EnvironmentVariables.lua
+# Libraries
+Libraries.xml
 
-# Application
-Main.lua
-CheckDurability.lua
+# Addon
+src\includes.xml
 
 # Notes
 #  /etrace; This command will list various game triggers
