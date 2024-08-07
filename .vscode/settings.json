@@ -29,6 +29,7 @@
         "IsSecureCmd",
         "NUM_CHAT_WINDOWS",
         "ChatEdit_GetActiveWindow",
-        "ChatFrame1"
+        "ChatFrame1",
+        "InterfaceOptionsFrame_OpenToCategory"
     ]
 }

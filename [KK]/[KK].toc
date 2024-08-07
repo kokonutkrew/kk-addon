@@ -2,9 +2,15 @@
 ## Title: [KK]
 ## Notes: Core application funtionality for [KK] modules.
 ## Version: 0.1
+## SavedVariables: kkDatabase
+## IconTexture: Interface\AddOns\[KK]\img\kkIconTexture
 
 # Libraries
-Libraries.xml
+lib\includes.xml
+
+# Preload
+Environment.lua
+locale\includes.xml
 
 # Addon
 src\includes.xml
@@ -12,3 +18,5 @@ src\includes.xml
 # Notes
 #  /etrace; This command will list various game triggers
 #  /fstack; Debug information
+#
+#  kkDatabase stores user settings (WTF\Acount\...\SavedVariables\[KK].lua)
