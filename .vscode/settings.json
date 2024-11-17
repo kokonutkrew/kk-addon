@@ -30,30 +30,7 @@
         "NUM_CHAT_WINDOWS",
         "ChatEdit_GetActiveWindow",
         "ChatFrame1",
-        "InterfaceOptionsFrame_OpenToCategory",
-        "CreateFrame",
-        "print",
-        "SendChatMessage",
-        "tostring",
-        "select",
-        "pairs",
-        "next",
-        "type",
-        "unpack",
-        "loadstring",
-        "assert",
-        "error",
-        "setmetatable",
-        "getmetatable",
-        "rawset",
-        "rawget",
-        "xpcall",
-        "table",
-        "string",
-        "geterrorhandler",
-        "IsLoggedIn",
-        "tonumber",
-        "_G"
+        "InterfaceOptionsFrame_OpenToCategory"
     ],
     "Lua.runtime.version": "Lua 5.1",
     "Lua.runtime.builtin": {
@@ -68,6 +45,6 @@
         "utf8": "disable"
     },
     "Lua.workspace.library": [
-        "~\\.vscode\\extensions\\ketho.wow-api-0.16.8\\Annotations"
+        "~\\.vscode\\extensions\\ketho.wow-api-0.17.4\\Annotations"
     ]
 }
